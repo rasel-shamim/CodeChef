@@ -1,3 +1,3 @@
 # CodeChef
-Solution of practiced codechef problems
+Solution of practiced codechef problems .
 A solution submitting again and again with consequently getting wrong answer makes one hope low but when he try and try and try and try that means he can do something so keep trying without losing hope...
